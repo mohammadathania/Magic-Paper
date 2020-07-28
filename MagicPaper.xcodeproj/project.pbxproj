@@ -13,6 +13,7 @@
 		AF46493224CF01050021099C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AF46493024CF01050021099C /* Main.storyboard */; };
 		AF46493424CF01080021099C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AF46493324CF01080021099C /* Assets.xcassets */; };
 		AF46493724CF01080021099C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AF46493524CF01080021099C /* LaunchScreen.storyboard */; };
+		AF46494324CF02E70021099C /* harrypotter.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = AF46494224CF02E70021099C /* harrypotter.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		AF46493324CF01080021099C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AF46493624CF01080021099C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AF46493824CF01080021099C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AF46494224CF02E70021099C /* harrypotter.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = harrypotter.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		AF46492924CF01050021099C /* MagicPaper */ = {
 			isa = PBXGroup;
 			children = (
+				AF46494224CF02E70021099C /* harrypotter.mp4 */,
 				AF46492A24CF01050021099C /* AppDelegate.swift */,
 				AF46492C24CF01050021099C /* art.scnassets */,
 				AF46492E24CF01050021099C /* ViewController.swift */,
@@ -127,6 +130,7 @@
 			files = (
 				AF46492D24CF01050021099C /* art.scnassets in Resources */,
 				AF46493724CF01080021099C /* LaunchScreen.storyboard in Resources */,
+				AF46494324CF02E70021099C /* harrypotter.mp4 in Resources */,
 				AF46493424CF01080021099C /* Assets.xcassets in Resources */,
 				AF46493224CF01050021099C /* Main.storyboard in Resources */,
 			);
@@ -216,7 +220,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.6;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.5;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -270,7 +274,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.6;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.5;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
